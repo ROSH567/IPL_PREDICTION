@@ -1,0 +1,7 @@
+[app]
+title = "My Streamlit App"
+description = "This is a sample Streamlit app."
+debug = true
+
+[button]
+color = "#FFFFFF"
